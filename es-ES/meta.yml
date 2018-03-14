@@ -1,16 +1,16 @@
 ---
-title: Rename a sprite in Scratch
-hero_image: images/banner.png
-description: Rename a sprite in Scratch
+title: Cambiar el nombre de un sprite en Scratch
+hero_image: images / banner.png
+description: Cambiar el nombre de un sprite en Scratch
 original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
-theme: red
+theme: rojo
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+curriculum: creador, diseño-0, programación-0, phys-comp-0, fabricación-0, comunidad-0
 interests: ""
-technologies: "scratch"
+technologies: "rasguño"
 steps:
   - 
-    title: Rename a sprite
+    title: Cambiar el nombre de un sprite
