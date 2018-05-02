@@ -6,4 +6,4 @@ Questo apre il pannello **informazioni**. Puoi anche fare clic con il tasto dest
 
 ![immagine dello schermo](images/rename-change.png)
 
-You can edit the name of the sprite and then click the **triangle** to close the **info** panel.
+È possibile modificare il nome dello sprite e quindi fare clic sul triangolo **** per chiudere il pannello **informazioni**.
