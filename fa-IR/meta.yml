@@ -1,16 +1,16 @@
 ---
-title: Rename a sprite in Scratch
-hero_image: images/banner.png
-description: Rename a sprite in Scratch
+title: تغییر نام پیمایش در ابتدا
+hero_image: images / banner.png
+description: تغییر نام پیمایش در ابتدا
 original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
-theme: red
+theme: سرخ
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+curriculum: خالق، طراحی 0، برنامه نویسی 0، فیزیک کامپوننت 0، تولید 0، جامعه 0
 interests: ""
-technologies: "scratch"
+technologies: "خراش"
 steps:
   - 
-    title: Rename a sprite
+    title: نام مستعار را تغییر دهید
