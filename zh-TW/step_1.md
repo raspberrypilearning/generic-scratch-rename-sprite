@@ -1,9 +1,9 @@
-To rename a sprite in Scratch, click on the **i** on the sprite:
+要在Scratch中重命名精靈，請單擊精靈上的 **i**：
 
-![screenshot](images/rename-info.png)
+![截圖](images/rename-info.png)
 
-This opens the **info** panel. You can also right-click on a sprite and choose `info`.
+這將打開 **信息** 面板。 您也可以右鍵單擊一個精靈並選擇 `信息`。
 
-![screenshot](images/rename-change.png)
+![截圖](images/rename-change.png)
 
-You can edit the name of the sprite and then click the **triangle** to close the **info** panel.
+您可以編輯精靈的名稱，然後單擊 **三角形** 以關閉 **信息** 面板。
