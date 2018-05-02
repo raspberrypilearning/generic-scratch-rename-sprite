@@ -1,9 +1,9 @@
-To rename a sprite in Scratch, click on the **i** on the sprite:
+כדי לשנות שם של שדון ב Scratch, לחץ על **i** על ספרייט:
 
-![screenshot](images/rename-info.png)
+![צילום מסך](images/rename-info.png)
 
-This opens the **info** panel. You can also right-click on a sprite and choose `info`.
+פעולה זו פותחת את **מידע** הפאנל. ניתן גם ללחוץ לחיצה ימנית על ספרייט ולבחור `info`.
 
-![screenshot](images/rename-change.png)
+![צילום מסך](images/rename-change.png)
 
-You can edit the name of the sprite and then click the **triangle** to close the **info** panel.
+אתה יכול לערוך את שם הספרייט ולאחר מכן לחץ על **משולש** כדי לסגור את **מידע** פאנל.
