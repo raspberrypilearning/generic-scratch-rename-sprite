@@ -1,16 +1,16 @@
 ---
-title: Rename a sprite in Scratch
-hero_image: images/banner.png
-description: Rename a sprite in Scratch
+title: Canvieu el nom d'un sprite a Scratch
+hero_image: imatges / banner.png
+description: Canvieu el nom d'un sprite a Scratch
 original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
-theme: red
+theme: vermell
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+curriculum: creador, disseny-0, programació-0, phys-comp-0, fabricació-0, comunitat-0
 interests: ""
-technologies: "scratch"
+technologies: "rascar"
 steps:
   - 
-    title: Rename a sprite
+    title: Canvieu el nom d'un sprite
