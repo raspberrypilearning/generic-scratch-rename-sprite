@@ -1,16 +1,16 @@
 ---
-title: Rename a sprite in Scratch
-hero_image: images/banner.png
-description: Rename a sprite in Scratch
+title: Nevezzen át egy spriteet a Scratch-ban
+hero_image: images / banner.png
+description: Nevezzen át egy spriteet a Scratch-ban
 original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
-theme: red
+theme: piros
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+curriculum: alkotó, design-0, programozás-0, fiz-comp-0, gyártás-0, community-0
 interests: ""
-technologies: "scratch"
+technologies: "karcolás"
 steps:
   - 
-    title: Rename a sprite
+    title: Nevezzen át egy sprite-et
