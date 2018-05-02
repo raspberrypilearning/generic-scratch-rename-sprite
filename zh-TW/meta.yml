@@ -1,16 +1,16 @@
 ---
-title: Rename a sprite in Scratch
-hero_image: images/banner.png
-description: Rename a sprite in Scratch
+title: 在Scratch中重命名一個精靈
+hero_image: 圖片/ banner.png
+description: 在Scratch中重命名一個精靈
 original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
-theme: red
+theme: 紅
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+curriculum: 創作者，設計-0，編程-0，物理comp-0，製造-0，社區-0
 interests: ""
-technologies: "scratch"
+technologies: "刮"
 steps:
   - 
-    title: Rename a sprite
+    title: 重命名一個精靈
