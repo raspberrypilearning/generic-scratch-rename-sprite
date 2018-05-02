@@ -1,16 +1,16 @@
 ---
-title: Rename a sprite in Scratch
-hero_image: images/banner.png
-description: Rename a sprite in Scratch
+title: Μετονομάστε ένα sprite στο Ξυστό
+hero_image: εικόνες / banner.png
+description: Μετονομάστε ένα sprite στο Ξυστό
 original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
-theme: red
+theme: το κόκκινο
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+curriculum: δημιουργός, σχεδιασμός-0, προγραμματισμός-0, phys-comp-0, κατασκευή-0, κοινότητα-0
 interests: ""
-technologies: "scratch"
+technologies: "γρατσουνιά"
 steps:
   - 
-    title: Rename a sprite
+    title: Μετονομάστε ένα sprite
