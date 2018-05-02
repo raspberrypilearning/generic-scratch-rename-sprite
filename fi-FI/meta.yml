@@ -1,16 +1,16 @@
 ---
-title: Rename a sprite in Scratch
-hero_image: images/banner.png
-description: Rename a sprite in Scratch
+title: Nimeä uusi sprite tyhjäksi
+hero_image: Kuvien / banner.png
+description: Nimeä uusi sprite tyhjäksi
 original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
-theme: red
+theme: punainen
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+curriculum: luoja, design-0, ohjelmointi-0, phys-comp-0, valmistus-0, yhteisö-0
 interests: ""
-technologies: "scratch"
+technologies: "naarmu"
 steps:
   - 
-    title: Rename a sprite
+    title: Nimeä uudelleen sprite
