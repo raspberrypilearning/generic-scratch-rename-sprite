@@ -1,16 +1,16 @@
 ---
-title: Rename a sprite in Scratch
-hero_image: images/banner.png
-description: Rename a sprite in Scratch
+title: Preimenuj sprite v Scratch
+hero_image: images / banner.png
+description: Preimenuj sprite v Scratch
 original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
-theme: red
+theme: rdeča
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+curriculum: ustvarjalec, design-0, programiranje-0, fiz-comp-0, izdelava-0, skupnost-0
 interests: ""
-technologies: "scratch"
+technologies: "praska"
 steps:
   - 
-    title: Rename a sprite
+    title: Preimenuj sprite
