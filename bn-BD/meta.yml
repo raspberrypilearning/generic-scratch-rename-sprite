@@ -1,16 +1,16 @@
 ---
-title: Rename a sprite in Scratch
-hero_image: images/banner.png
-description: Rename a sprite in Scratch
+title: স্ক্র্যাচ একটি sprite নামান্তর
+hero_image: ইমেজ / banner.png
+description: স্ক্র্যাচ একটি sprite নামান্তর
 original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
-theme: red
+theme: লাল
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+curriculum: স্রষ্টা, নকশা -0, প্রোগ্রামিং -0, পদার্থ-কম্প-0, উৎপাদন-0, কমিউনিটি -২0
 interests: ""
-technologies: "scratch"
+technologies: "আঁচড়ের দাগ"
 steps:
   - 
-    title: Rename a sprite
+    title: একটি পরী পরিবর্তন করুন
