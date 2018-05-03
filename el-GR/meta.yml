@@ -1,16 +1,16 @@
 ---
-title: Μετονομάστε ένα sprite στο Ξυστό
-hero_image: εικόνες / banner.png
-description: Μετονομάστε ένα sprite στο Ξυστό
+title: Μετονόμασε ένα αντικείμενο στο Scratch
+hero_image: images/banner.png
+description: Μετονόμασε ένα αντικείμενο στο Scratch
 original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
-theme: το κόκκινο
+theme: red
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: δημιουργός, σχεδιασμός-0, προγραμματισμός-0, phys-comp-0, κατασκευή-0, κοινότητα-0
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ""
-technologies: "γρατσουνιά"
+technologies: "scratch"
 steps:
   - 
-    title: Μετονομάστε ένα sprite
+    title: Μετονόμασε ένα αντικείμενο
