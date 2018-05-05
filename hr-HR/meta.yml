@@ -3,14 +3,14 @@ title: Preimenuj lika u Scratchu
 hero_image: images/banner.png
 description: Preimenuj lika u Scratchu
 original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
-theme: Crvena
+theme: red
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: kreator, dizajn-0, programiranje-0, fiz-comp-0, proizvodnja-0, community-0
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ""
-technologies: "ogrepsti"
+technologies: "Scratch"
 steps:
   - 
-    title: Preimenujte sprite
+    title: Preimenuj lika
