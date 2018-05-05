@@ -1,9 +1,9 @@
-Za preimenovanje sprite u Scratch, kliknite na **i** na sprite:
+Za preimenovanje lika u Scratchu, klikni na **i** na liku:
 
-![zaslona](images/rename-info.png)
+![screenshot](images/rename-info.png)
 
-To otvara **info** ploču. Također možete kliknuti desnom tipkom miša na sprite i odabrati `info`.
+To otvara **info** ploču. Također možeš kliknuti desnom tipkom miša na lika i odabrati `info`.
 
-![zaslona](images/rename-change.png)
+![screenshot](images/rename-change.png)
 
-Možete urediti naziv sprite, a zatim kliknite **trokut** za zatvaranje **info** ploče.
+Možeš urediti naziv lika, a zatim kliknuti na **trokut** za zatvaranje **info** ploče.
