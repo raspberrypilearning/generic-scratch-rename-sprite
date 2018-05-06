@@ -1,4 +1,4 @@
-Um ein Sprite in Scratch umzubenennen, klicke auf den **i** auf dem Sprite:
+Um eine Figur in Scratch umzubenennen, klicke auf das **i** auf der Figur:
 
 ![screenshot](images/rename-info.png)
 
