@@ -1,16 +1,16 @@
 ---
-title: تغییر نام پیمایش در ابتدا
-hero_image: images / banner.png
-description: تغییر نام پیمایش در ابتدا
+title: تغییر نام شبح در اسکرچ
+hero_image: images/banner.png
+description: تغییر نام شبح در اسکرچ
 original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
-theme: سرخ
+theme: red
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: خالق، طراحی 0، برنامه نویسی 0، فیزیک کامپوننت 0، تولید 0، جامعه 0
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ""
-technologies: "خراش"
+technologies: "scratch"
 steps:
   - 
     title: نام مستعار را تغییر دهید
