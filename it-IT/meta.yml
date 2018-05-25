@@ -1,6 +1,6 @@
 ---
 title: Rinominare uno sprite in Scratch
-hero_image: images / banner.png
+hero_image: images/banner.png
 description: Rinominare uno sprite in Scratch
 original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
 theme: rosso
@@ -8,9 +8,9 @@ duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: creatore, design-0, programmazione-0, compatta-0, fabbricazione-0, comunità-0
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ""
-technologies: "graffiare"
+technologies: "scratch"
 steps:
   - 
     title: Rinominare uno sprite
