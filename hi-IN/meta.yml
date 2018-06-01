@@ -1,10 +1,10 @@
 ---
-title: Rename a sprite in Scratch
+title: Scratch में एक स्प्राइट का नाम बदलें
 hero_image: images/banner.png
-description: Rename a sprite in Scratch
+description: Scratch में एक स्प्राइट का नाम बदलें
 original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
-theme: red
-duration: 1
+theme: लाल
+duration: 0
 listed: false
 ingredient: true
 copyedit: true
@@ -13,4 +13,4 @@ interests: ""
 technologies: "scratch"
 steps:
   - 
-    title: Rename a sprite
+    title: स्प्राइट का नाम बदलें
