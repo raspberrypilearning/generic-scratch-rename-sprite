@@ -1,14 +1,15 @@
-title: Scratch में स्प्राइट का नाम बदलें
+---
+title: Scratch में एक स्प्राइट का नाम बदलें
 hero_image: images/banner.png
-description: Scratch में स्प्राइट का नाम बदलें
+description: Scratch में एक स्प्राइट का नाम बदलें
 original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
-theme: red # all possible values: blue, green, navy, orange, red, turquoise, violet, yellow
-duration: 1 # 1, 2 or 3
+theme: लाल
+duration: 1
 listed: false
 ingredient: true
 copyedit: true
 curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
-interests: “"
-technologies: “scratch"
+interests: ""
+technologies: "scratch"
 steps:
   - title: स्प्राइट का नाम बदलें
