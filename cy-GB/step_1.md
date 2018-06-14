@@ -1,9 +1,9 @@
-I ail-enwi swite yn Scratch, cliciwch ar y **i** ar y chwistrell:
+I ailenwi ciplun yn Scratch, cliciwch ar yr **i** ar y ciplun:
 
-![screenshot](images/rename-info.png)
+![sgrinlun](images/rename-info.png)
 
-Mae hyn yn agor y panel **info**. Gallwch hefyd dde-glicio ar sbring a dewis `gwybodaeth`.
+Mae hyn yn agor y panel **info**. Gallwch dde-glicio ar giplun a dewis `info` hefyd.
 
-![screenshot](images/rename-change.png)
+![sgrinlun](images/rename-change.png)
 
-Gallwch olygu enw'r corlun ac yna cliciwch y **triongl** i gau'r **info** panel.
+Gallwch olygu enw'r ciplun ac yna clicio ar y **triongl** i gau'r panel **info**.
