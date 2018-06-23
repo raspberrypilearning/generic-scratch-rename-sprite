@@ -1,8 +1,8 @@
 ---
 title: Renommer un lutin dans Scratch
 hero_image: images / banner.png
-description: Renommer un sprite dans Scratch
-original_url: https://codeclubprojects.org/fr/scratch/rock-band
+description: Renommer un lutin dans Scratch
+original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
 theme: rouge
 duration: 1
 listed: false
@@ -10,7 +10,7 @@ ingredient: true
 copyedit: true
 curriculum: créateur, design-0, programmation-0, phys-comp-0, fabrication-0, communauté-0
 interests: ""
-technologies: "rayure"
+technologies: "scratch"
 steps:
   - 
-    title: Renommer un sprite
+    title: Renommer un lutin
