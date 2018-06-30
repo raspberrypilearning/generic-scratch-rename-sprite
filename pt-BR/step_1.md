@@ -1,9 +1,9 @@
 Para renomear um ator no Scratch, clique no **i** no sprite:
 
-![captura de tela](images/rename-info.png)
+![screenshot](images/rename-info.png)
 
-Isso abrirá o painel **informações**. Você também pode clicar com o botão direito em um sprite e escolher `info`.
+Isso abrirá o painel **informações**. Você também pode clicar com o botão direito em um ator e selecionar `info`.
 
-![captura de tela](images/rename-change.png)
+![screenshot](images/rename-change.png)
 
-Você pode editar o nome do sprite e, em seguida, clique no **triângulo** para fechar o painel **informações**.
+Você pode editar o nome do ator e, em seguida, clicar no **triângulo** para fechar o painel de **informações**.
