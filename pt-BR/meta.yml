@@ -1,7 +1,7 @@
 ---
-title: Renomeie um sprite no Scratch
+title: Renomeie um ator no Scratch
 hero_image: images/banner.png
-description: Renomeie um sprite no Scratch
+description: Renomeie um ator no Scratch
 original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
 theme: red
 duration: 1
@@ -13,4 +13,4 @@ interests: ""
 technologies: "scratch"
 steps:
   - 
-    title: Renomeie um sprite
+    title: Renomeie um ator
