@@ -1,9 +1,9 @@
-To rename a sprite in Scratch, click on the **i** on the sprite:
+要在Scratch中重命名精灵，请单击精灵上的** i **：
 
-![screenshot](images/rename-info.png)
+![截屏](images/rename-info.png)
 
-This opens the **info** panel. You can also right-click on a sprite and choose `info`.
+这将打开**信息**面板。 您也可以右键单击精灵并选择`信息` 。
 
-![screenshot](images/rename-change.png)
+![截屏](images/rename-change.png)
 
-You can edit the name of the sprite and then click the **triangle** to close the **info** panel.
+您可以编辑精灵的名称，然后单击**三角形**关闭**信息**面板。
