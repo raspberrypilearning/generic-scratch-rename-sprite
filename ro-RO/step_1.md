@@ -1,9 +1,9 @@
-Pentru a redenumi un sprite în Scratch, faceți clic pe **i** pe sprite:
+Pentru a redenumi un personaj în Scratch, faceți clic pe **i** de pe personaj:
 
 ![captură de ecran](images/rename-info.png)
 
-Aceasta deschide panoul **info**. De asemenea, aveți posibilitatea să faceți clic dreapta pe un sprite și să alegeți `info`.
+Acesta deschide panoul **info**. De asemenea, aveți posibilitatea să faceți clic dreapta pe un personaj și să alegeți `info`.
 
 ![captură de ecran](images/rename-change.png)
 
-Puteți edita numele sprite și apoi faceți clic pe **triunghiul** pentru a închide **info** panou.
+Puteți edita numele personajului și apoi faceți clic pe **triunghi** pentru a închide **info** panoul.
