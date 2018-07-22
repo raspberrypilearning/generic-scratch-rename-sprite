@@ -2,7 +2,7 @@ Za preimenovanje lika u Scratchu, klikni na **i** na liku:
 
 ![screenshot](images/rename-info.png)
 
-To otvara **info** ploču. Također možeš kliknuti desnom tipkom miša na lika i odabrati `info`.
+Tako ćeš otvoriti **info** ploču. Također možeš kliknuti desnom tipkom miša na lika i odabrati `info`.
 
 ![screenshot](images/rename-change.png)
 
