@@ -1,9 +1,9 @@
-Aby zmienić nazwę ikonki w Scratch, kliknij **i** na ikonce:
+Aby zmienić nazwę duszka w Scratchu, kliknij **i** na duszku:
 
 ![zrzut ekranu](images/rename-info.png)
 
-Spowoduje to otwarcie panelu **informacji**. Możesz także kliknąć prawym przyciskiem myszy ikonkę i wybrać `informacji`.
+Spowoduje to otwarcie panelu **info**. Możesz także nacisnąć prawy przycisk myszy nad duszkiem i wybrać `info`.
 
 ![zrzut ekranu](images/rename-change.png)
 
-Możesz edytować nazwę ikonki, a następnie kliknąć trójkąt **** aby zamknąć panel **informacji**.
+Możesz zmienić nazwę duszka, a następnie kliknąć ** trójkąt**, aby zamknąć panel **info**.
