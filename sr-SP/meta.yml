@@ -1,14 +1,14 @@
 ---
-title: Преименуј сприте у Сцратцх
-hero_image: имагес / баннер.пнг
-description: Преименуј сприте у Сцратцх
-original_url: хттпс://цодецлубпројецтс.орг/ен-ГБ/сцратцх/роцк-банд
-theme: црвена
+title: Преименуј лика у Scratch-у
+hero_image: images/banner.png
+description: Преименуј лика у Scratch-у
+original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
+theme: red
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: творац, дизајн-0, програмирање-0, физ-цомп-0, производња-0, заједница-0
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ""
 technologies: "огреботина"
 steps:
