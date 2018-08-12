@@ -6,4 +6,4 @@ Tako ćeš otvoriti panel **info**. Takođe možeš da klikneš desnim tasterom 
 
 ![screenshot](images/rename-change.png)
 
-Možeš da promijeniš naziv lika, a zatim klikni na **trougao** da zatvoriš panel **info**.
+Možeš da promijeniš naziv lika, a zatim da klikneš na **trougao** da zatvoriš panel **info**.
