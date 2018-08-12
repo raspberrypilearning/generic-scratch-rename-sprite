@@ -1,4 +1,4 @@
-Da preimenuješ lik (sprite) u Scratch-u, klikni na **i** u gornjem lijevom uglu lika:
+Da preimenuješ lik (sprite) u Scratch-u, klikni na **i** na liku:
 
 ![screenshot](images/rename-info.png)
 
