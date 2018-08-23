@@ -1,16 +1,16 @@
 ---
-title: שינוי שם של שדון ב- Scratch
-hero_image: תמונות / banner.png
-description: שינוי שם של שדון ב- Scratch
+title: שינוי שם של דמות ב- Scratch
+hero_image: images/banner.png
+description: שינוי שם של דמות ב- Scratch
 original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
-theme: אָדוֹם
+theme: red
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: יוצר, עיצוב 0, תכנות 0, phys-comp-0, ייצור -0, קהילה -0
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ""
-technologies: "שריטה"
+technologies: "scratch"
 steps:
   - 
-    title: שנה שם של שדון
+    title: שינוי שם של דמות
