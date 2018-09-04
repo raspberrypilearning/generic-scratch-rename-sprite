@@ -1,16 +1,16 @@
 ---
-title: Preimenuj sprite v Scratch
-hero_image: images / banner.png
-description: Preimenuj sprite v Scratch
+title: Preimenuj figuro v Scratchu
+hero_image: images/banner.png
+description: Preimenuj figuro v Scratchu
 original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
-theme: rdeča
+theme: red
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: ustvarjalec, design-0, programiranje-0, fiz-comp-0, izdelava-0, skupnost-0
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ""
-technologies: "praska"
+technologies: "scratch"
 steps:
   - 
-    title: Preimenuj sprite
+    title: Preimenuj figuro
