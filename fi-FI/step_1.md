@@ -1,4 +1,4 @@
-Jos haluat nimetä Sprite uudelleen Scratchin, napsauta spriteen **i**:
+Jos haluat nimetä Scratch-hahmon uudelleen, napsauta hahmoa **i**:
 
 ![kuvakaappaus](images/rename-info.png)
 
