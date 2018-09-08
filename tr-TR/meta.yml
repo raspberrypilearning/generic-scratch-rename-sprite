@@ -1,16 +1,16 @@
 ---
-title: Scratch'te hareketli grafiği yeniden adlandır
-hero_image: images / banner.png
-description: Scratch'te hareketli grafiği yeniden adlandır
+title: Scratch'te bir kuklanın yeniden adlandırılması
+hero_image: images/banner.png
+description: Scratch'te bir kuklanın yeniden adlandırılması
 original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
-theme: kırmızı
+theme: red
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: creator, design-0, programlama-0, fiz-comp-0, production-0, topluluk-0
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ""
-technologies: "çizik"
+technologies: "scratch"
 steps:
   - 
-    title: Bir hareketli grafiği yeniden adlandır
+    title: Bir kuklanın yeniden adlandırılması
